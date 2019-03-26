@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C5E7DCC4-C121-456D-AAA4-B95C66EED623}</ProjectGuid>
+    <ProjectGuid>{A44D61C8-09C3-459A-8C4D-36F4E3EB32B7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Parallelization</RootNamespace>
-    <AssemblyName>Parallelization</AssemblyName>
+    <RootNamespace>ParallelForClass</RootNamespace>
+    <AssemblyName>ParallelForClass</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
