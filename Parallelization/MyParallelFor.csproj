@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DynamicPartitioning\LoadBalancingBothStaticAndDynamic.cs" />
     <Compile Include="DynamicPartitioning\LoadBalancingMyParallelFor.cs" />
+    <Compile Include="ForEach\MyParallelForEach.cs" />
     <Compile Include="StaticPartitioning\MyParallelForWithoutThreadPools.cs" />
     <Compile Include="StaticPartitioning\MyParallelForWithThreadPool.cs" />
     <Compile Include="Program.cs" />

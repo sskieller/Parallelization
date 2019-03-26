@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyParallelFor", "Parallelization\MyParallelFor.csproj", "{C5E7DCC4-C121-456D-AAA4-B95C66EED623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelForClass", "ParallelForClass\ParallelForClass.csproj", "{A44D61C8-09C3-459A-8C4D-36F4E3EB32B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5E7DCC4-C121-456D-AAA4-B95C66EED623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5E7DCC4-C121-456D-AAA4-B95C66EED623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5E7DCC4-C121-456D-AAA4-B95C66EED623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44D61C8-09C3-459A-8C4D-36F4E3EB32B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44D61C8-09C3-459A-8C4D-36F4E3EB32B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44D61C8-09C3-459A-8C4D-36F4E3EB32B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44D61C8-09C3-459A-8C4D-36F4E3EB32B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
