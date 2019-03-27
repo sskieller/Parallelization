@@ -65,7 +65,6 @@ namespace Parallelization
             //after = DateTime.Now;
             //Debug.WriteLine("For each: Elapsed time: " + (after - before).TotalMilliseconds);
 
-
             var students = new List<Student>();
             for (var i = 0; i < 100000; i++)
             {
